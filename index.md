@@ -10,11 +10,9 @@ title: Summer 2021 DREU Project Site
 
 My name is Sarah Coufal and I am a rising senior at Bryn Mawr College. I am majoring in Computer Science and Mathematics and will be graduating in Spring 2022. My 2021 DREU experience is taking place at the University of Minnesota, although I am working remotely from Pittsburgh. 
 
-Email: scoufal@brynmawr.edu
-
 ## About My Mentor
 
-I am working with Dr. [Victoria Interrante](https://www-users.cs.umn.edu/~interran/) this summer. Dr. Interrante is a professor of the Department of Computer Science and Engineering, as well as the director of the Center for Cognitive Sciences at the University of Minnesota. Her research is on the intersection of computer graphics and psychology/perception and focuses on improving the quality of virtual reality experiences.
+I am working with [Dr. Victoria Interrante](https://www-users.cs.umn.edu/~interran/) this summer. Dr. Interrante is a professor of the Department of Computer Science and Engineering, as well as the director of the Center for Cognitive Sciences at the University of Minnesota. Her research is on the intersection of computer graphics and psychology/perception and focuses on improving the quality of virtual reality experiences.
 
 ## About My Project
 
